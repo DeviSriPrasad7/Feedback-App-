@@ -1,0 +1,51 @@
+/* Write your CSS code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc0bb;
+  height: 100vh;
+}
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emojis-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 35px;
+}
+.list-container {
+  list-style-type: none;
+}
+.tq-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 35px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.img {
+  height: 10vh;
+  width: 100%;
+}
